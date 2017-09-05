@@ -1,0 +1,16 @@
+competitors - we should be cloning them first
+
+https://www.fiswebdesign.com/magento-development/microsoft-dynamics-ax-integration/
+https://www.appseconnect.com/microsoft-dynamics-nav-and-magento-integration/
+http://www.ebridgeconnections.com/solutions/erp-integration/connectors/microsoft-dynamics-365.aspx
+https://marketplace.magento.com/i95devconnect-ax365base.html
+
+
+eCommerce platforms to work with :
+Will start with this Magento (world's top eCommerce platform) http://devdocs.magento.com/guides/v2.0/get-started/bk-get-started-api.html
+Shopify https://developers.shopify.com/
+
+To Be reviewed
+
+Dynamics 365 business - finance and operations module
+Vs Enterprise - retail module 
